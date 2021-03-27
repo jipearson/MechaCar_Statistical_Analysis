@@ -3,7 +3,8 @@
 ## Linear Regression to Predict MPG
 ![](Resources/Images/MechaCar_mpg.PNG)
 ## Summary Statistics on Suspension Coils
-![](Resources/Images/?.PNG)
+![](Resources/Images/total_summary.PNG)
+![](Resources/Images/lot_summary.PNG)
 ## T-Tests on Suspension Coils
 ![](Resources/Images/?.PNG)
 ## Study Design: MechaCar vs Competition
