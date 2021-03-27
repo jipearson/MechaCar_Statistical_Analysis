@@ -7,6 +7,8 @@
 <br>
 ![](Resources/Images/lot_summary.PNG)
 ## T-Tests on Suspension Coils
+![](Resources/Images/ttest_all.PNG)
+<br>
 ![](Resources/Images/ttest.PNG)
 ## Study Design: MechaCar vs Competition
 ![](Resources/Images/?.PNG)
