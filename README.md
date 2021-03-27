@@ -4,8 +4,9 @@
 ![](Resources/Images/MechaCar_mpg.PNG)
 ## Summary Statistics on Suspension Coils
 ![](Resources/Images/total_summary.PNG)
+<br>
 ![](Resources/Images/lot_summary.PNG)
 ## T-Tests on Suspension Coils
-![](Resources/Images/?.PNG)
+![](Resources/Images/ttest.PNG)
 ## Study Design: MechaCar vs Competition
 ![](Resources/Images/?.PNG)
