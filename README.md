@@ -27,19 +27,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - When we run the same one sample t-test comparing each individual lot to the population mean we see that lot 1 and lot 2 are well above our significance level while lot 3 is below our significance level at .04. Because lot 3 is below our significance level we would reject the null hypothese and accept the alternative hypotheses. 
 
 ## Study Design: MechaCar vs Competition
-We would like to collect the following metrics for MechaCar and its competition. 
-- Cost 
-- Maintenance Cost
-- Depreciation Cost
-- Max passengers 
-- Safety ratings 
-- Horse power
-- City fuel efficiency
-- Highway fuel efficiency 
-- Transmission
-- Cylinders
-Our hypotesis:
-- The MechaCar has better fuel efficiency than the competition.  
-- Null hythothesis: The MechaCar performs the same or worse than the competition. 
-- I would compare the mean, median, variance, and standard deviation and run a two sample t-test to determine if there a statistical difference between the mean of the two samples. 
-- To run this test we would need sample city and highway fuel efficiency data for MechaCar as well as it's competition. 
+1. We would like to collect the following metrics for MechaCar and its competition. 
+   - Cost 
+   - Maintenance Cost
+   - Depreciation Cost
+   - Max passengers 
+   - Safety ratings 
+   - Horse power
+   - City fuel efficiency
+   - Highway fuel efficiency 
+   - Transmission
+   - Cylinders
+2. Our hypotesis:
+   - The MechaCar has better fuel efficiency than the competition.  
+   - Null hythothesis: The MechaCar performs the same or worse than the competition. 
+3. I would compare the mean, median, variance, and standard deviation and run a two sample t-test to determine if there a statistical difference between the mean of the two samples. 
+4. To run this test we would need sample city and highway fuel efficiency data for MechaCar as well as it's competition. 
